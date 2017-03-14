@@ -11,7 +11,7 @@
 /* Carousel base class */
 .carousel {
   height: 240px;
-  margin-bottom: 30px;
+  margin-bottom: 300px;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
